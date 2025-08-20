@@ -1,4 +1,4 @@
-git+https://github.com/apple/ml-stable-diffusion.git
+git+https://github.com/valebes/ml-stable-diffusion
 coremltools>=7.1
 overrides
 diffusers>=0.22
